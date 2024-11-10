@@ -42,5 +42,4 @@ function Item({ info }) {
     </div>
   );
 }
-
 export default App;
